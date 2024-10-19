@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { createBrowserRouter, Outlet } from "react-router-dom";
 import Header from "./components/Header";
-import MovieListing from "./pages/movieListing";
+import MovieListing from "./pages/MovieListing";
 import Footer from "./components/Footer";
 import MovieDetail from "./pages/MovieDetails";
 import TopRated from "./pages/TopRated";
